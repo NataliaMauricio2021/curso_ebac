@@ -1,2 +1,2 @@
-# curso_ebac
+# CursoEBAC
 Curso EBAC

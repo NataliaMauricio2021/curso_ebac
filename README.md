@@ -1,2 +1,2 @@
 # curso_ebac
-Curso EBAC
+Curso Engenheiro de Qualidade de Software na EBAC
